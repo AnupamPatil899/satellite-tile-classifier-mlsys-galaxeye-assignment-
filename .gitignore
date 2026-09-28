@@ -21,6 +21,7 @@ data/*.db-shm
 # Internal notes & AI handoff files (Strictly ignored for public submission)
 CONTINUATION_PROMPT.md
 docs/DECISION_LOG_AND_RATIONALE.md
+generate_submission_pdf.py
 
 # OS Artifacts
 .DS_Store
