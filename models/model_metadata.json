@@ -1,0 +1,30 @@
+{
+  "classes": [
+    "AnnualCrop",
+    "Forest",
+    "Highway",
+    "Industrial",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "num_classes": 7,
+  "best_val_acc": 0.8544,
+  "input_size": [
+    3,
+    64,
+    64
+  ],
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "model_version": "v1.0.0-cpu",
+  "trained_at": "2026-09-28 14:48:24"
+}
